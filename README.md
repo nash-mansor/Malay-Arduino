@@ -8,3 +8,7 @@ Antara isi-isi penting projek ini adalah:
 5. Latihan Analog Output: (berikan cadangan)
 6. Latihan Analog Input: (berikan cadangan)
 7. Latihan Digital Output: (berikan cadangan)
+
+
+
+#oktoberfest
